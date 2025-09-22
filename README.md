@@ -4,7 +4,9 @@ NIM                 : H1D023048
 Shift Awal & Baru   : F
 
 # Screenshot
-## Display
+## Display  Pertemuan 2  
 ![Image 1](1-aplikasi.jpg)
-## Apk Info
-![Image 2](info.jpg)
+  
+## Display Pertemuan 3
+dikarenakan hp saya screen nya kecil (banget) ini jadinya ku 0dp, maklum lah  
+![Video](2-aplikasi.gif)
