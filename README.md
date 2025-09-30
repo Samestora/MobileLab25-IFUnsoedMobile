@@ -10,3 +10,6 @@ Shift Awal & Baru   : F
 ## Display Pertemuan 3
 dikarenakan hp saya screen nya kecil (banget) ini jadinya ku 0dp, maklum lah  
 ![Video](2-aplikasi.gif)
+
+## Display Pertemuan 4
+![Video](3-aplikasi.gif)
